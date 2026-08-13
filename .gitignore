@@ -1,0 +1,7 @@
+resources/
+corpus-orig/
+corpus-en/
+notes/
+tools/log/
+drafts/
+*.pdf
