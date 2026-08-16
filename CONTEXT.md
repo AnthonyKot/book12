@@ -101,5 +101,9 @@ refrain. Quote audit rule: grep against corpus-orig/ **with newlines normalized*
   (JP/IL/BY). Two-agent content recon of all 10 text documents, quote-verified.
   Plan approved: cut (10 core + RU/NL/LV/zero), slot-spine, pilot = ch. 3 Empire &
   slavery. Repo scaffolded; corpus-orig extracted; recon quotes grep-verified.
+- 2026-08-16: ch. 3 thread pitch gate resolved — test reader picked pitch 1 (the price
+  of the portrait); §7 drafted, price/fee/free-status verified against official shop +
+  gov.uk + manifests; agy + codex adversarial reads in drafts/reviews/. User will hand-
+  download the US 2025 128q set (drop in resources/, filename us-2025-uscis-128q.pdf).
 - Open (user): title/tagline pick · US 2025 128q manual browser download (for ch. 8's
   test-mutation diff) · optional TSO purchase for UK quote verification before ship.
