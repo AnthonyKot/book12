@@ -105,5 +105,13 @@ refrain. Quote audit rule: grep against corpus-orig/ **with newlines normalized*
   of the portrait); §7 drafted, price/fee/free-status verified against official shop +
   gov.uk + manifests; agy + codex adversarial reads in drafts/reviews/. User will hand-
   download the US 2025 128q set (drop in resources/, filename us-2025-uscis-128q.pdf).
+- 2026-08-16 (later): batch drafting begun for bulk read. Five dossiers built by parallel
+  research passes (notes/founding-story.md, the-war.md, first-peoples.md,
+  missing-history.md, machinery.md — all quotes grep-verified, FR from page images only).
+  Ch. 2 drafted (chapters/02-founding-story.html) with pitches staged, thread pending.
+  PAUSED at user request; next: draft ch. 4, 5, 6, 0, 1 from the dossiers, then bulk read.
+  Dossier corrections to fold into CORPUS.md: FR footer says "Edition mai 2026" (not Jul);
+  RU demo header is a temporary-residence-permit exam (уровень 2), not citizenship — verify
+  before ch. 0; ES 2026 manual is © 2025; CA extraction duplicates spreads (halve word counts).
 - Open (user): title/tagline pick · US 2025 128q manual browser download (for ch. 8's
   test-mutation diff) · optional TSO purchase for UK quote verification before ship.
