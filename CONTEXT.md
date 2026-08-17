@@ -132,5 +132,14 @@ refrain. Quote audit rule: grep against corpus-orig/ **with newlines normalized*
   BY manifest source page empty on 2026-08-17. PAUSED at user request. Next: draft ch. 7–10
   from their dossiers when they land, epilogue (item set in notes/silence-and-epilogue.md
   §B; restore epilogue nav link in ch. 11), pitches for 7–11, agy/codex batch read.
+- 2026-08-17 (evening): dossier agents for ch. 7/9/10 hit the session limit; ch. 9 and 10 had
+  already written their files (notes/narrate-vs-test.md, notes/invisible-applicant.md — both
+  complete), ch. 8's landed earlier (notes/distractors.md); only notes/values.md is missing,
+  so the ch. 7 agent alone is being re-run. Ch. 8, 9, 10 drafted from those dossiers (all
+  quoted strings re-verified by script against corpus-orig: 87 + 57 + 85 strings, 0 misses;
+  zero-count badges re-checked — UK "Amin" is 0 as a name, the 4 raw hits are "examin*"; AU
+  racism exists as a present-tense norm, not as history, and ch. 10 says so). Pitches staged
+  for 8, 9, 10, 11. Index links live for 8–11; verify green at 11 chapters. Remaining in this
+  block: ch. 7 (values) + epilogue, then the agy/codex batch read of Part III/IV.
 - Open (user): title/tagline pick · US 2025 128q manual browser download (for ch. 8's
   test-mutation diff) · optional TSO purchase for UK quote verification before ship.
