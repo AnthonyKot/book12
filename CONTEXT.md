@@ -121,6 +121,8 @@ refrain. Quote audit rule: grep against corpus-orig/ **with newlines normalized*
   fetched the FIPI 2025 CITIZENSHIP demo + specification (decree 1136/2025). The ch. 6
   "RU without 1941–45" anchor inverts: the citizenship demo tests the war ×4 and grades
   the verb for Crimea (Q18 key: "воссоединение" only). Ch. 2/4/6 corrected accordingly.
-  Ch. 4, 5, 6 drafted (pitches staged); ch. 0/1 next.
+  Ch. 0, 1, 2, 4, 5, 6 all drafted (pitches staged, threads pending) — with ch. 3 that is
+  Parts I–II complete in draft; agy/codex batch reads in drafts/reviews/batch-*. Next: user
+  bulk read + thread picks; then Part III (ch. 7–10), Part IV (11), epilogue.
 - Open (user): title/tagline pick · US 2025 128q manual browser download (for ch. 8's
   test-mutation diff) · optional TSO purchase for UK quote verification before ship.
