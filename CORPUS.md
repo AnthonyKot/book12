@@ -16,7 +16,7 @@ every quote carries document + edition + page/question number. Files in resource
 | DE | Gesamtfragenkatalog „Leben in Deutschland“/Einbürgerungstest | Stand 07.05.2025 | BAMF | question bank, no prose, NO ANSWER KEY | 300+160q |
 | AT | Mein Österreich — Lernunterlage zur Staatsbürgerschaftsprüfung | 2022 (© BMI 2020) | BMI | narrative booklet + sample questions | 84pp |
 | DK | Læremateriale til Indfødsretsprøven | Aug 2025 (serves winter 25/summer 26) | UIM / SIRI | narrative textbook, 6 chapters | 243pp |
-| FR | Livret du citoyen | Jul 2026 | DGEF / Min. Intérieur | narrative booklet; syllabus of the new examen civique (arrêté 10.10.2025) | 83pp |
+| FR | Livret du citoyen | footer reads "Edition mai 2026" (our list said Jul — seam) | DGEF / Min. Intérieur | narrative booklet; syllabus of the new examen civique (arrêté 10.10.2025) | 83pp |
 | ES | Manual de preparación CCSE | 2026 (25% renewed annually) | Instituto Cervantes | hybrid: prose + full 300q bank + answer key | 102pp |
 | EE | Abiks Eesti kodakondsuse taotlejale / What you need to know… | 2010 (ET) / 2011 (EN) — still current per Harno | Harno / Integration Foundation | narrative booklet + 24 sample questions | 70/67pp |
 
@@ -46,11 +46,27 @@ every quote carries document + edition + page/question number. Files in resource
 - **NL** — no official study book exists: the state publishes legally fixed learning
   outcomes (Eindtermen KNM, Staatscourant 2024) + browser practice exams (DUO);
   instruction is left to commercial publishers. The split IS the exhibit.
-- **LV** — PMLP html self-test tool + a study book the state SELLS; official 4pp
-  brochure unreachable (SSL timeout, no Wayback snapshot; manifest-east.md).
-- **Zero column: JP · IL · BY** — no published test corpus; naturalization is
-  ministerial discretion. Verified with official sources 2026-08-13 (manifest-east.md).
-  The absence claim is limited to published test/study material.
+- **LV** — PMLP html self-test tool + a downloadable sample paper + a study book the
+  state SELLS (J. Taurēns, *Latvijas vēstures pamatjautājumi*). The official 4pp brochure,
+  recorded as unreachable on 2026-08-13 (SSL timeout, no Wayback snapshot; manifest-east.md),
+  was FETCHED 2026-08-17 and is held as resources/lv-2021-pmlp-latvijas-pilsoniba.pdf
+  (+ corpus-orig txt) — PDF metadata dates the file 4 June 2021, EU asylum/migration fund
+  co-funding logo. It prints the fee (28,46 € / reduced 4,27 €), the test towns, every
+  exemption, the three graded parts (anthem recited or written; history and culture;
+  Satversme) and "Lēmumu … pieņem Ministru kabinets" — and no date, event or name from
+  Latvian history (1918 · 1940 · 1991 · okupācij* · Ulmanis · neatkarīb*: 0 in 4pp).
+  Written test per pmlp.gov.lv (read 2026-08-17): 18 questions, 10 history/culture + 8
+  Satversme, each part graded separately, retake after ≥1 month, max three attempts.
+  The sample paper is NOT held (wishlist).
+- **Zero column: JP · IL · BY** — no published test corpus. Verified with official
+  sources 2026-08-13 (manifest-east.md); the absence claim is limited to published
+  test/study material. JP re-verified 2026-08-17 (moj.go.jp/EN/MINJI/minji78.html: six
+  statutory conditions, "If the Minister of Justice permits … announced in the Official
+  Gazette", no test prescribed). IL not re-fetched — the "some Hebrew" and discretion
+  wording needs a live check before quoting. **BY: do not write "ministerial discretion"**
+  — the manifest's phrase is the statutory "considered with regard to Belarus's interests",
+  and the MVD source page (mvd.gov.by/main.aspx?guid=80533) returned an EMPTY page on
+  2026-08-17. The cell reads "nothing published; source page dark" until relocated.
 
 ## Provenance caveats (gating)
 
@@ -66,7 +82,12 @@ every quote carries document + edition + page/question number. Files in resource
    booklet sit behind USCIS's firewall: manual browser download wanted for ch. 8.
 4. **CA/AU editions**: CA is the 2012 text in a 2021 reprint (oath still to
    Elizabeth II); AU is the 2020 trimmed "testable" edition — comparisons must not
-   treat these as fresh 2021/2024 compositions.
+   treat these as fresh 2021/2024 compositions. **AU is also patched after Sept 2022**:
+   p. 28 reads "His Majesty King Charles III" under a "© Commonwealth of Australia 2020"
+   line (King Charles 2 hits; "Queen" 9, all Queensland), so the file is a 2020 edition
+   reprinted/updated ≥2022. <!-- CHECK: Home Affairs page for the current edition date -->
+   CA extraction duplicates every spread: halve all CA word/item counts, and cite the
+   printed folio rather than the extraction page.
 5. **EE English edition** carries uncorrected errors ("undetermised", "the secret
    largest group") — quote them as printed, [sic], per book8's errors-are-data rule.
 
