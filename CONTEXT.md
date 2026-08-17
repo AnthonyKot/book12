@@ -124,5 +124,13 @@ refrain. Quote audit rule: grep against corpus-orig/ **with newlines normalized*
   Ch. 0, 1, 2, 4, 5, 6 all drafted (pitches staged, threads pending) — with ch. 3 that is
   Parts I–II complete in draft; agy/codex batch reads in drafts/reviews/batch-*. Next: user
   bulk read + thread picks; then Part III (ch. 7–10), Part IV (11), epilogue.
+- 2026-08-17 (later): Part III/IV block begun. Five dossier agents launched (values,
+  distractors, narrate-vs-test, invisible-applicant, silence-and-epilogue). Ch. 11 drafted
+  from notes/silence-and-epilogue.md; LV PMLP leaflet (2021) fetched and filed as
+  resources/lv-2021-pmlp-latvijas-pilsoniba.pdf (+ corpus-orig txt) — CORPUS.md entry TODO;
+  side-findings to fold: AU "2020" file carries "King Charles III" p. 28 (patched ≥2022);
+  BY manifest source page empty on 2026-08-17. PAUSED at user request. Next: draft ch. 7–10
+  from their dossiers when they land, epilogue (item set in notes/silence-and-epilogue.md
+  §B; restore epilogue nav link in ch. 11), pitches for 7–11, agy/codex batch read.
 - Open (user): title/tagline pick · US 2025 128q manual browser download (for ch. 8's
   test-mutation diff) · optional TSO purchase for UK quote verification before ship.
