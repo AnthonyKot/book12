@@ -38,7 +38,7 @@ wrong (ES 2-year fast track for Sephardic Jews, expulsion never mentioned).
 - **RU** — demo exams only (no narrative): the 2023 level-2 demo is the residence-permit
   track (its own header says so) and omits the war; the 2025 FIPI citizenship demo +
   specification (collected 2026-08-17) tests the Great Patriotic War four times and, in
-  Q18, grades the applicant's VERB for Crimea ("воссоединение" required; "присоединение"
+  Q18, grades the applicant's WORDING for Crimea ("воссоединение" required; "присоединение"
   refused by the key); codifier 1.26 mandates "the start of the Special Military
   Operation" and the four accession treaties. The finding is assent-not-knowledge —
   the mandated word — not omission. Never in a ladder as a full narrator.
@@ -120,7 +120,7 @@ refrain. Quote audit rule: grep against corpus-orig/ **with newlines normalized*
 - 2026-08-17: RU corpus corrected — the held 2023 demo is the temporary-residence track;
   fetched the FIPI 2025 CITIZENSHIP demo + specification (decree 1136/2025). The ch. 6
   "RU without 1941–45" anchor inverts: the citizenship demo tests the war ×4 and grades
-  the verb for Crimea (Q18 key: "воссоединение" only). Ch. 2/4/6 corrected accordingly.
+  the wording for Crimea (Q18 key: "воссоединение" only). Ch. 2/4/6 corrected accordingly.
   Ch. 0, 1, 2, 4, 5, 6 all drafted (pitches staged, threads pending) — with ch. 3 that is
   Parts I–II complete in draft; agy/codex batch reads in drafts/reviews/batch-*. Next: user
   bulk read + thread picks; then Part III (ch. 7–10), Part IV (11), epilogue.

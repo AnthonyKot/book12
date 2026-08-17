@@ -41,7 +41,7 @@ every quote carries document + edition + page/question number. Files in resource
   Крыма с Россией" and the key rejects "присоединение / включение в состав"; codifier
   1.20 names 16 war heroes, 1.25 the 2014 Crimea treaty, 1.26 "Начало Специальной
   военной операции" and the accession treaties for DNR/LNR/Kherson/Zaporizhzhia.
-  Used ONLY as special voice (assent-not-knowledge; the mandated verb). Never a peer
+  Used ONLY as special voice (assent-not-knowledge; the mandated wording). Never a peer
   column — still no narrative document.
 - **NL** — no official study book exists: the state publishes legally fixed learning
   outcomes (Eindtermen KNM, Staatscourant 2024) + browser practice exams (DUO);
