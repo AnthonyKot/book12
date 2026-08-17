@@ -20,7 +20,7 @@ schoolbooks don't carry. Coding categories per passage (from book8): **space · 
 **distractors** (the wrong answers a state writes are a self-portrait) and
 **testability** (what is narrated vs what is examined — the two anti-correlate:
 EE narrates 10pp of occupation history and tests none of it; DE tests ~70 history
-items and narrates nothing, publishing no answer key; RU narrates nothing at all).
+items and narrates nothing, publishing no answer key; RU narrates nothing at all — and, on the citizenship track, examines a required word).
 
 The engine (from the 2026-08-13 corpus recon): **the grammar of atonement scales** —
 date+agent (CA "In 2008, Ottawa formally apologized") → fraction (FR "une part de
@@ -35,9 +35,13 @@ wrong (ES 2-year fast track for Sephardic Jews, expulsion never mentioned).
 15 positions — see `CORPUS.md` (editions, agencies, genres, provenance caveats).
 **10 core columns**: UK · CA · AU · US · DE · AT · DK · FR · ES · EE.
 **Special voices, never peer columns** (book8's KZ rule):
-- **RU** — 18-page demo exam only; the finding is assent-not-knowledge (the Crimea
-  question where all three options presuppose the annexation) and the missing
-  Great Patriotic War. Never in a ladder as a full narrator.
+- **RU** — demo exams only (no narrative): the 2023 level-2 demo is the residence-permit
+  track (its own header says so) and omits the war; the 2025 FIPI citizenship demo +
+  specification (collected 2026-08-17) tests the Great Patriotic War four times and, in
+  Q18, grades the applicant's VERB for Crimea ("воссоединение" required; "присоединение"
+  refused by the key); codifier 1.26 mandates "the start of the Special Military
+  Operation" and the four accession treaties. The finding is assent-not-knowledge —
+  the mandated word — not omission. Never in a ladder as a full narrator.
 - **NL · LV** — states that publish exam outcomes/tools but no book; the
   state/commercial split is the exhibit.
 - **Zero column: JP · IL · BY** — no published test corpus (verified with sources,
@@ -113,5 +117,10 @@ refrain. Quote audit rule: grep against corpus-orig/ **with newlines normalized*
   Dossier corrections to fold into CORPUS.md: FR footer says "Edition mai 2026" (not Jul);
   RU demo header is a temporary-residence-permit exam (уровень 2), not citizenship — verify
   before ch. 0; ES 2026 manual is © 2025; CA extraction duplicates spreads (halve word counts).
+- 2026-08-17: RU corpus corrected — the held 2023 demo is the temporary-residence track;
+  fetched the FIPI 2025 CITIZENSHIP demo + specification (decree 1136/2025). The ch. 6
+  "RU without 1941–45" anchor inverts: the citizenship demo tests the war ×4 and grades
+  the verb for Crimea (Q18 key: "воссоединение" only). Ch. 2/4/6 corrected accordingly.
+  Ch. 4, 5, 6 drafted (pitches staged); ch. 0/1 next.
 - Open (user): title/tagline pick · US 2025 128q manual browser download (for ch. 8's
   test-mutation diff) · optional TSO purchase for UK quote verification before ship.

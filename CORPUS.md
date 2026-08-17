@@ -22,11 +22,27 @@ every quote carries document + edition + page/question number. Files in resource
 
 ## Special voices (never peer columns — book8's KZ rule)
 
-- **RU** — Демонстрационный вариант, уровень 2 (2023, Pushkin Institute, Rosobrnadzor
-  copyright), 18pp demo exam with key. Russia publishes no narrative and no full bank
-  at this level. Used ONLY for: assent-not-knowledge (Q28 Crimea presupposition), the
-  missing Great Patriotic War, the 988→2014 arc. Wishlist: the full approved question
-  bank, if any official host emerges.
+- **RU** — two demo exams, no narrative, no full bank:
+  (a) Демонстрационный вариант, уровень 2 (2023, Pushkin Institute / Rosobrnadzor ©),
+  18pp with key — per its own p. 1 header the exam "на уровне, соответствующем цели
+  получения разрешения на временное проживание (уровень 2)": the TEMPORARY-RESIDENCE
+  track, not citizenship. 34 items (21 language, 7 history, 6 law). Great Patriotic War:
+  0; "1945" only as a distractor (Q27).
+  (b) **Citizenship track (collected 2026-08-17)**: FIPI/Rosobrnadzor "Демонстрационный
+  вариант КИМ для проведения экзамена по истории России и основам законодательства РФ
+  для целей приобретения гражданства РФ" (16pp, 36 items: 18 history + 18 law, max 40
+  points, 3 open-answer items with marking criteria) + its Спецификация (13pp, with the
+  Кодификатор of mandated content 1.1–1.26). Legal basis: Presidential decree 889 of
+  22.11.2023; Government decree 1136 of 31.07.2025. Files: resources/ru-2025-fipi-DEMO_
+  ekzamen_grazhdanstvo_IST_Zakon.pdf, resources/ru-2025-fipi-Spetsifikatsiya_…pdf; text in
+  corpus-orig/. Source: fipi.ru/inostr-exam/inostr-exam-vzrosl (also hosts an open
+  question bank at inostr-exam.fipi.ru — wishlist). Findings: the war is tested four
+  times (Q9, Q10, Q11 open, Q17); Q18 requires the applicant to write "воссоединение
+  Крыма с Россией" and the key rejects "присоединение / включение в состав"; codifier
+  1.20 names 16 war heroes, 1.25 the 2014 Crimea treaty, 1.26 "Начало Специальной
+  военной операции" and the accession treaties for DNR/LNR/Kherson/Zaporizhzhia.
+  Used ONLY as special voice (assent-not-knowledge; the mandated verb). Never a peer
+  column — still no narrative document.
 - **NL** — no official study book exists: the state publishes legally fixed learning
   outcomes (Eindtermen KNM, Staatscourant 2024) + browser practice exams (DUO);
   instruction is left to commercial publishers. The split IS the exhibit.
