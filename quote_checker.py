@@ -67,6 +67,7 @@ for cf in corpus_files:
     with open(cf, 'r', encoding='utf-8') as f:
         corpus_map[cf] = normalize(f.read())
 
-check_quotes('/home/diablo/book12/chapters/02-founding-story.html', corpus_map)
-check_quotes('/home/diablo/book12/chapters/04-the-war.html', corpus_map)
-check_quotes('/home/diablo/book12/chapters/05-first-peoples.html', corpus_map)
+import sys
+targets = sys.argv[1:] or ['/home/diablo/book12/chapters/02-founding-story.html','/home/diablo/book12/chapters/04-the-war.html','/home/diablo/book12/chapters/05-first-peoples.html']
+for t in targets:
+    check_quotes(t, corpus_map)
